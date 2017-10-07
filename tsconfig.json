@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["custom_typings/*", "node_modules/@types"]
+    }
+  }
+}
